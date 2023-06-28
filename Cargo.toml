@@ -17,7 +17,7 @@ primitive-types = { version = "0.12", default-features = false }
 parity-util-mem = "0.9.0"
 fastrlp = { version = "0.3", features = ["derive"] }
 rlp = "0.5.2"
-rlp_derive = "0.1"
+rlp-derive = "0.1"
 
 thiserror = "1"
 
