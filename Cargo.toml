@@ -14,7 +14,7 @@ crc = "1"
 ethereum-types = "0.11.0"
 maplit = "1"
 primitive-types = { version = "0.12", default-features = false }
-parity_util_mem = "0.9.0"
+parity-util-mem = "0.9.0"
 fastrlp = { version = "0.3", features = ["derive"] }
 rlp = "0.5.2"
 rlp_derive = "0.1"
